@@ -53,5 +53,5 @@ It allows users to **register**, **log in**, and get a personalized welcome mess
 
 ---
 
-## 📁 File Structure
+
 
