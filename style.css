@@ -42,16 +42,16 @@ button {
   padding: 20px;
   margin: 15px auto;
   border-radius: 6px;
-  border: 2px solid #1990a3;
+  border: 1px solid #1990a3;
   background-color: transparent;
 }
 input:focus {
-  outline: 3px solid #13ceeb !important;
+  outline: 1px solid #13ceeb !important;
 }
 button {
   background: transparent;
   color: #fff;
-  border: 2px solid #1990a3;
+  border: 1px solid #1990a3;
   cursor: pointer;
   width: 80%;
   transition: all 0.4s;
@@ -59,7 +59,7 @@ button {
 button:hover {
   background: #1990a3;
   color: #181818;
-  scale: 1.1;
+
 }
 .error {
   color: #d00;
