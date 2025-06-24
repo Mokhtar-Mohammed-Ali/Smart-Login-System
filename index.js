@@ -125,9 +125,10 @@ function showRegistration() {
 success.style.display='block';
 loader.style.display='block';
     saveUsers(users);
-   setTimeout(() => {
      setLoggedIn(email);
-    showHome();
+   setTimeout(() => {
+    
+   showLogin()
    }, 2000);
   };
 
